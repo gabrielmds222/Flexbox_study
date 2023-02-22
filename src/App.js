@@ -1,11 +1,11 @@
 import "./App.css";
 
-import Grid from "./components/Grid";
+import Flex from "./components/Flex";
 
 function App() {
   return (
     <>
-      <Grid />
+      <Flex />
     </>
   );
 }
