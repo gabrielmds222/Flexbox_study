@@ -1,8 +1,9 @@
 import React from "react";
+import "./style.css";
 
 const Flex = () => {
   return (
-    <div className="Container">
+    <div className="container">
       <div className="header">
         <h1> componente Header</h1>
       </div>
