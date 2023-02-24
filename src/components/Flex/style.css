@@ -11,11 +11,26 @@
 
 .content {
   display: flex;
-  flex-direction: column;
 }
 
 .sidebar {
   height: 100vh;
   width: 20vw;
   border: 2px solid blue;
+}
+
+.right-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.page {
+  height: 90vh;
+  width: 80vw;
+  border: 2px solid lightgreen;
+}
+
+.footer {
+  width: 80vw;
+  border: 2px solid violet;
 }
